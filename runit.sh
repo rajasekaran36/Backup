@@ -7,6 +7,3 @@ git status
 git commit -m "Update Done"
 
 git push -u origin master
-
-proffraja@gmail.com
-rajaisgreat143
